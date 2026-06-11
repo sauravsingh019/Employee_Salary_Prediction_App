@@ -44,7 +44,7 @@ An interactive **Machine Learning web app** built using Streamlit that allows us
 ## 📂 Project Structure
 
 📁 Employee-Salary-Predictor
-│── app.py          # Main Streamlit application
+│── main.py          # Main Streamlit application
 │── README.md       # Project documentation
 │── requirements.txt
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 3. Run the app:
 bash
-streamlit run app.py
+streamlit run main.py
 
 ## 📊 How It Works
 
